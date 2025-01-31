@@ -1,3 +1,6 @@
+## This fork
+Just to make the repository compatible with Laravel 12.
+
 # Painless HTML generation
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-html.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-html)
