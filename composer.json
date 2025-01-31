@@ -23,8 +23,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/http": "^10.0|^11.0",
-        "illuminate/support": "^10.0|^11.0"
+        "illuminate/http": "^10.0|^11.0|12.x-dev",
+        "illuminate/support": "^10.0|^11.0|12.x-dev"
     },
     "require-dev": {
         "mockery/mockery": "^1.3",
